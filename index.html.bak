@@ -70,11 +70,11 @@
 					<li><label class="left-label">Java</label> <progress
 							value="80" max="100"></progress></li>
 					<li><label class="left-label">html/css</label> <progress
-							value="70" max="100"></progress></li>
+							value="80" max="100"></progress></li>
 					<li><label class="left-label">Javascript</label> <progress
 							value="60" max="100"></progress></li>
 					<li><label class="left-label">Spring</label> <progress
-							value="60" max="100"></progress></li>
+							value="80" max="100"></progress></li>
 				</ul>
 			</div>
 			<div class="stack info-unit">
